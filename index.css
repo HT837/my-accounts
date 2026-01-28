@@ -1,6 +1,6 @@
 @media (max-width:600px){
-    body{
-        
+    body{width: auto;
+height: auto;
     }
 }
 
@@ -10,11 +10,11 @@
 
 div{
     margin-bottom: auto;
-    margin-top: auto;
+    margin-top: 60px;
     padding-top: 100px;
     margin-left: auto;
     margin-right: auto;
-    width: 450px; 
+    width: 400px; 
     height: 500px; 
     background: #313030;
     border-radius: 50px;
@@ -24,7 +24,7 @@ div{
 #img1{
 
 width: 100px;
-margin-left: 170px;
+margin-left: 150px;
 
 border-radius: 200px;
 
