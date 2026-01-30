@@ -47,7 +47,7 @@ box-shadow: 5px 5px 5px 5px black;
     border-radius: 30px;
 }
 
-#b1>h3>a{
+#b1>h3{
     width: 100px;
     color:white;
    font-family: "Great Vibes", cursive;
@@ -64,7 +64,7 @@ box-shadow: 5px 5px 5px 5px black;
     height: 50px;
     border-radius: 30px;
 }
-#b2>h3>a{
+#b2>h3{
     width: 100px;
     color:white;
    font-family: "Great Vibes", cursive;
@@ -82,7 +82,7 @@ box-shadow: 5px 5px 5px 5px black;
     height: 50px;
     border-radius: 30px;
 }
-#b3>h3>a{
+#b3>h3{
     width: 100px;
     color:white;
    font-family: "Great Vibes", cursive;
@@ -100,8 +100,9 @@ box-shadow: 5px 5px 5px 5px black;
     height: 50px;
     border-radius: 30px;
 }
-#b4>h3>a{
-    width: 100px;
+#b4>h3{
+    
+    width: 150px;
     color:white;
    font-family: "Great Vibes", cursive;
   font-weight: 400;
