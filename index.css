@@ -29,8 +29,8 @@ margin: 60px auto;
 #img1{
 
 width: 100px;
-margin-left: 130px;
-
+margin-left: 150px;
+left: 0%;
 border-radius: 200px;
 
 height: 100px;
@@ -166,3 +166,4 @@ box-shadow: 5px 5px 5px 5px black;
     
 
     
+
