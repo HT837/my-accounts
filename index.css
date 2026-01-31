@@ -27,7 +27,7 @@ margin: 60px auto;
 
 
 #img1{
-
+position: relative;
 width: 100px;
 margin-left: 150px;
 left: 0%;
@@ -166,4 +166,5 @@ box-shadow: 5px 5px 5px 5px black;
     
 
     
+
 
