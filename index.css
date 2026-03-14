@@ -1,4 +1,5 @@
 
+
 @media (max-width:600px){
     body{width: auto;
 height: auto;
@@ -34,8 +35,8 @@ margin: 60px auto;
 
 #img1{
 position: relative;
-width: 100px;
-margin-left: 150px;
+width: 25%;
+margin-left: 38%;
 left: 0%;
 border-radius: 200px;
 
@@ -53,16 +54,16 @@ box-shadow: 5px 5px 5px 5px black;
 
 #b1{
     background: transparent;
-    width: 300px;
+    width: 90%;
     height: 50px;
     border-radius: 30px;
 }
 
 #b1>h3{
-    width: 100px;
+    width: 90%;
     color:white;
    font-family: "Great Vibes", cursive;
-  font-weight: 400;
+  font-weight: 400px;
   font-style: normal;
   margin-left: auto;
   margin-right: auto;
@@ -71,15 +72,15 @@ box-shadow: 5px 5px 5px 5px black;
 }
 #b2{
     background: transparent;
-    width: 300px;
+    width: 90%;
     height: 50px;
     border-radius: 30px;
 }
 #b2>h3{
-    width: 100px;
+    width: 90%;
     color:white;
    font-family: "Great Vibes", cursive;
-  font-weight: 400;
+  font-weight: 400px;
   font-style: normal;
   margin-left: auto;
   margin-right: auto;
@@ -89,15 +90,15 @@ box-shadow: 5px 5px 5px 5px black;
 
 #b3{
     background: transparent;
-    width: 300px;
+    width: 90%;
     height: 50px;
     border-radius: 30px;
 }
 #b3>h3{
-    width: 100px;
+    width: 90%;
     color:white;
    font-family: "Great Vibes", cursive;
-  font-weight: 400;
+  font-weight: 400px;
   font-style: normal;
   margin-left: auto;
   margin-right: auto;
@@ -107,17 +108,17 @@ box-shadow: 5px 5px 5px 5px black;
 
 #b4{
     background: transparent;
-    width: 300px;
+    width: 90%;
     height: 50px;
     border-radius: 30px;
 
 }
 #b4>h3{
     
-    width: 150px;
+    width: 90%;
     color:white;
    font-family: "Great Vibes", cursive;
-  font-weight: 400;
+  font-weight: 400px;
   font-style: normal;
   margin-left: auto;
   margin-right: auto;
@@ -135,8 +136,8 @@ box-shadow: 5px 5px 5px 5px black;
     top: 0%;
     left: 0%;
 
-    width: 405px;
-    height: 600px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 
     border-radius: 50px;
